@@ -1,0 +1,6 @@
+var searchData=
+[
+  ['industrialupdate_0',['IndustrialUpdate',['../group___simulating-_functions.html#ga5cd59f3cd7f114d55745d5173cb0f609',1,'IndustrialUpdate(RegionState &amp;regionState):&#160;region_simulator.cpp'],['../group___simulating-_functions.html#ga5cd59f3cd7f114d55745d5173cb0f609',1,'IndustrialUpdate(RegionState &amp;regionState):&#160;region_simulator.cpp']]],
+  ['isadjacentpop_1',['IsAdjacentPop',['../group___helper-_functions.html#gaf5e3c670cb0fd0573ba0223b25a198f2',1,'IsAdjacentPop(vector&lt; vector&lt; Zone &gt; &gt; regionData, int row, int column, int pop):&#160;region_simulator.cpp'],['../group___helper-_functions.html#gaf5e3c670cb0fd0573ba0223b25a198f2',1,'IsAdjacentPop(vector&lt; vector&lt; Zone &gt; &gt; regionData, int row, int column, int pop):&#160;region_simulator.cpp']]],
+  ['isadjacentpowerline_2',['IsAdjacentPowerline',['../group___helper-_functions.html#ga487ec627c4ad8dfe1d7733d84a3205da',1,'IsAdjacentPowerline(vector&lt; vector&lt; Zone &gt; &gt; regionData, int row, int column):&#160;region_simulator.cpp'],['../group___helper-_functions.html#ga487ec627c4ad8dfe1d7733d84a3205da',1,'IsAdjacentPowerline(vector&lt; vector&lt; Zone &gt; &gt; regionData, int row, int column):&#160;region_simulator.cpp']]]
+];
